@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Udara Vidunuwan
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers)]([https://github.com/your-username](https://github.com/udaravidunuwan))
+![Profile Views](https://komarev.com/ghpvc/?username=udaravidunuwan)
+[![GitHub Followers](https://img.shields.io/github/followers/udaravidunuwan?label=Followers)](https://github.com/udaravidunuwan)
 
 ## 🚀 About Me
 
@@ -30,9 +30,9 @@ Here are some of the technologies and tools I work with:
 ## 🌐 Connect with Me
 
 You can find me on various platforms:
-
-- [GitHub](https://github.com/your-username)
-- [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/udara-vidunuwan-431493210/))
+https://github.com/udaravidunuwan
+- [GitHub](https://github.com/udaravidunuwan)
+- [LinkedIn](https://www.linkedin.com/in/udara-vidunuwan-431493210/)
 <!-- [Portfolio Website](https://your-portfolio-website.com) 
 ## 📕 Latest Blog Posts
 
