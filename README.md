@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 ## 🌐 Connect with Me
 
 You can find me on various platforms:
-https://github.com/udaravidunuwan
+
 - [GitHub](https://github.com/udaravidunuwan)
 - [LinkedIn](https://www.linkedin.com/in/udara-vidunuwan-431493210/)
 <!-- [Portfolio Website](https://your-portfolio-website.com) 
