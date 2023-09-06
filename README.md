@@ -10,7 +10,7 @@ I'm a full-stack developer based in Sri Lanka. I'm passionate about building web
 - 💼 I'm currently working at Pro Account Lanka
 - 🌱 Always learning and staying up-to-date with the latest web development trends
 - 🤝 Open to collaboration on interesting projects
-- 📫 How to reach me: crimsonpanda.0@gmail.com(mailto:crimsonpanda.0@gmail.com)
+- 📫 How to reach me: [crimsonpanda.0@gmail.com](mailto:crimsonpanda.0@gmail.com)
 
 ## 🔧 Technologies & Tools
 
