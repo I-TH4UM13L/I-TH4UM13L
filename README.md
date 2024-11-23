@@ -11,7 +11,7 @@ I'm a **game developer** and software enthusiast from Sri Lanka, specializing in
 - 🌱 **Always Evolving**: Enhancing skills in advanced game mechanics, AI programming, and procedural generation  
 - 💼 **Professional Background**:  
   - **Data Capture Associate** – Pro Account Lanka  
-  - **Executive at Operations** – RCM  
+  - **Executive at Operations** – Legacy Health, LLC  
 - 🤝 **Collaborations**: Open to teaming up on innovative projects in gaming and software development  
 - 📫 **Let’s Connect**: [crimsonpanda.0@gmail.com](mailto:crimsonpanda.0@gmail.com)  
 
