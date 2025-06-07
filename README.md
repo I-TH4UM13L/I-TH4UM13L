@@ -1,63 +1,73 @@
-# 🎮 Hello, I'm Udara Vidunuwan  
+# 🎮 Hello, I'm Udara Vidunuwan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=udaravidunuwan)  
-[![GitHub Followers](https://img.shields.io/github/followers/udaravidunuwan?label=Followers)](https://github.com/udaravidunuwan)  
+[![GitHub Followers](https://img.shields.io/github/followers/udaravidunuwan?label=Followers)](https://github.com/udaravidunuwan)
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I'm a **game developer** and software enthusiast from Sri Lanka, specializing in building immersive gaming experiences and efficient software solutions. With a passion for learning and innovation, I focus on mastering **Godot** and **Unity** game engines, using **C#** as my main programming language. My mission is to create memorable games that blend storytelling, mechanics, and engaging visuals.  
+I'm a **game developer** and software enthusiast from Sri Lanka, dedicated to building immersive, interactive experiences through innovative gameplay and clean code. I specialize in **C#**, **C++**, and work primarily with the **Godot**, **Unity**, and **Unreal Engine** game engines.
 
-- 🌟 **Current Focus**: Game development and Windows applications with Godot and Unity  
-- 🌱 **Always Evolving**: Enhancing skills in advanced game mechanics, AI programming, and procedural generation  
-- 💼 **Professional Background**:  
-  - **Data Capture Associate** – Pro Account Lanka  
-  - **Executive at Operations** – Legacy Health, LLC  
-- 🤝 **Collaborations**: Open to teaming up on innovative projects in gaming and software development  
-- 📫 **Let’s Connect**: [crimsonpanda.0@gmail.com](mailto:crimsonpanda.0@gmail.com)  
+Driven by a love for storytelling and mechanics, I aim to create games that not only entertain but leave a lasting impression.
+
+- 🎯 **Current Focus**: Mastering game development with Godot, Unity, and Unreal  
+- 🌱 **Learning Path**: Procedural generation, AI programming, and multiplayer systems  
+- 💻 **Tech Interests**: Game tools, interactive simulations, engine scripting  
+- 🧠 **Skills Sharpening**: Diving deeper into C++ and performance optimization  
+
+### 💼 Experience
+- **Data Capture Associate** – *Pro Account Lanka*  
+- **Executive - Operations** – *Legacy Health, LLC*
+
+### 🤝 Open for Collaborations  
+Game dev projects, indie ideas, or open-source contributions — let’s build something cool together.
+
+📫 **Get in Touch**: [crimsonpanda.0@gmail.com](mailto:crimsonpanda.0@gmail.com)
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Technologies & Tools
 
-### 🎮 **Game Development**  
-- **Engines**: Godot, Unity  
-- **Programming**: C#  
-- **Game Design**: Level Design, Game Mechanics, AI Systems  
-- **Graphics & Assets**: Blender, Photoshop, Substance Painter  
+### 🎮 Game Development
+- **Engines**: Godot, Unity, Unreal Engine  
+- **Languages**: C#, C++, GDScript  
+- **Skills**: Game Mechanics, AI Systems, Level Design, Procedural Generation  
+- **Design & Assets**: Blender, Photoshop, Substance Painter  
 
-### 💻 **Software Development**  
-- **Languages**: C#, JavaScript  
+### 💻 Software Development
+- **Languages**: C#, JavaScript, SQL  
 - **Frameworks**: .NET  
 - **Databases**: MySQL, PostgreSQL  
 
-### 🔧 **Additional Tools**  
+### 🔧 Tooling & Workflow
 - **Version Control**: Git, GitHub  
-- **API Development**: RESTful APIs  
-- **Testing & Debugging**: Playtesting, Bug Tracking  
+- **API Integration**: RESTful APIs  
+- **Debugging**: Playtesting, Profiling, Bug Tracking  
 
 ---
 
-## 📊 GitHub Insights  
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaravidunuwan&show_icons=true&count_private=true&hide=stars&theme=dark)  
-
----
-
-## 🌐 Where to Find Me  
-
-- 🌍 [GitHub](https://github.com/udaravidunuwan)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/udara-vidunuwan-431493210/)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaravidunuwan&show_icons=true&count_private=true&hide=stars&theme=dark)
 
 ---
 
-## ✨ Fun Fact  
+## 🌐 Connect with Me
 
-I’m inspired by **Manhwa**, and its rich storytelling often influences the worlds and narratives I create in my games. 📚  
+- 💻 [GitHub](https://github.com/udaravidunuwan)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/udara-vidunuwan-431493210/)
 
 ---
 
-## 🏆 Goals for 2024  
+## ✨ Fun Fact
 
-- Publish an original game built with **Godot** or **Unity**  
-- Contribute to an open-source game development project  
-- Expand my expertise in procedural content generation and multiplayer mechanics  
+My creative spark often comes from **Manhwa** — their rich storytelling inspires the characters and worlds I build in my games. 📚
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Launch an original game built in **Godot** or **Unity**  
+- 🔄 Contribute to or lead an open-source game dev project  
+- 🚀 Learn **Unreal Engine Blueprints** and **C++ scripting**  
+- 🌐 Implement multiplayer features in a game prototype  
+- 🧪 Build a procedural level generator from scratch
