@@ -53,7 +53,7 @@ Game dev projects, indie ideas, or open-source contributions — let’s build s
 
 ## 🌐 Connect with Me
 
-- 💻 [GitHub](https://github.com/udaravidunuwan)  
+- 💻 [GitHub](https://github.com/I-TH4UM13L)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/udara-vidunuwan-431493210/)
 
 ---
