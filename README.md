@@ -1,7 +1,7 @@
 # 🎮 Hello, I'm Udara Vidunuwan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=udaravidunuwan)  
-[![GitHub Followers](https://img.shields.io/github/followers/udaravidunuwan?label=Followers)](https://github.com/udaravidunuwan)
+[![GitHub Followers](https://img.shields.io/github/followers/I-TH4UM13L?label=Followers)](https://github.com/I-TH4UM13L)
 
 ## 🚀 About Me
 
