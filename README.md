@@ -47,7 +47,7 @@ Game dev projects, indie ideas, or open-source contributions — let’s build s
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaravidunuwan&show_icons=true&count_private=true&hide=stars&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-TH4UM13L&show_icons=true&count_private=true&hide=stars&theme=dark)
 
 ---
 
