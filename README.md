@@ -82,6 +82,6 @@ I'm open to:
 
 ---
 
-> *"Every great game starts with a simple idea and the courage to keep building."*  
+> *"Imitation is the source for Creation."*  
 > — Still learning, still building 💪
 
