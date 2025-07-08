@@ -12,11 +12,12 @@
 
 ## 🕹️ About Me
 
-I'm a self-taught **game developer** and lifelong tech explorer, passionate about building immersive, story-driven games and tools. I specialize in **C#** and **C++**, and primarily work with **Godot**, **Unity**, and **Unreal Engine**.
+I'm a self-taught **game developer** with a strong interest in creating engaging and fun gameplay experiences. I enjoy exploring game engines, writing clean code, and learning by building.
 
-- 🔭 Currently diving deeper into **AI systems**, **procedural generation**, and **multiplayer architecture**
-- 💡 Inspired by **Manhwa**, storytelling, and interactive gameplay mechanics
-- 🛠️ Building a foundation in **performance optimization** and **engine scripting**
+- 🔭 Currently working on personal game projects using **Godot** and **Unity**
+- 🧠 Learning more about **C#**, **C++**, and core game dev principles
+- 🎨 I enjoy combining storytelling, design, and interactivity to bring ideas to life
+- 📚 Inspired by **Manhwa** and other visual storytelling mediums
 
 ---
 
@@ -30,9 +31,9 @@ I'm a self-taught **game developer** and lifelong tech explorer, passionate abou
 ## 🤝 Let’s Collaborate
 
 I'm open to:
-- Indie or solo game dev collaborations 🎮  
-- Contributing to open-source game tools 🔧  
-- Prototyping creative mechanics and gameplay systems 💡  
+- Indie game dev projects  
+- Learning-focused collaborations  
+- Building fun, experimental prototypes
 
 📫 **Reach out**: [crimsonpanda.0@gmail.com](mailto:crimsonpanda.0@gmail.com)
 
@@ -41,20 +42,17 @@ I'm open to:
 ## 🧰 Tech Stack
 
 ### 🎮 Game Development
-- **Engines**: Godot, Unity, Unreal Engine  
-- **Languages**: C#, C++, GDScript  
-- **Specialties**: AI Programming, Procedural Generation, Gameplay Systems  
-- **Tools**: Blender, Photoshop, Substance Painter
+- **Engines**: Godot, Unity, Unreal Engine (beginner)
+- **Languages**: C#, C++, GDScript
+- **Tools**: Blender (basic), Photoshop (basic)
 
-### 💻 Software Engineering
-- **Languages**: C#, JavaScript, SQL  
-- **Frameworks**: .NET  
-- **Databases**: MySQL, PostgreSQL  
+### 💻 Programming
+- **Languages**: C#, PHP, SQL
+- **Frameworks**: .NET Framework (beginner)
 
-### 🛠 Workflow & Tools
-- **Version Control**: Git, GitHub  
-- **APIs**: RESTful Services  
-- **Debugging & Testing**: Playtesting, Profiling, QA Tools  
+### 🛠 Workflow
+- **Version Control**: Git, GitHub
+- **Learning**: Game mechanics, UI design, input systems, and scene management
 
 ---
 
@@ -77,14 +75,13 @@ I'm open to:
 
 ## 🎯 2025 Goals
 
-- 🎮 Launch an original game using **Godot** or **Unity**
-- 🌐 Build a functional multiplayer prototype
-- 🧠 Master **Unreal Engine Blueprints** and **C++ scripting**
-- 🤝 Collaborate on or initiate an open-source game dev project
-- 🧪 Develop a procedural level generator from scratch
+- ✅ Launch a playable game using **Godot** or **Unity**
+- 📦 Publish a project or prototype on GitHub
+- 🎮 Participate in a game jam or online dev challenge
+- 💬 Share progress and insights through dev logs or blog posts
 
 ---
 
-> *“Code is the canvas. Gameplay is the story.”*  
-> — Inspired by stories, built with passion.
+> *"Every great game starts with a simple idea and the courage to keep building."*  
+> — Still learning, still building 💪
 
